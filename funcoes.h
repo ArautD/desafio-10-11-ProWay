@@ -1,7 +1,8 @@
-#ifndef HEADER_H
-#define HEADER_H
+#ifndef FUNCOES_H
+#define FUNCOES_H
 
 void boasVindas();
+void pausa();
 void exibeTamanhoMensagem();
 void exibeVogais();
 void transformaMaiusculas();
